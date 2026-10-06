@@ -1,0 +1,14 @@
+{
+  "id": "plusfour",
+  "name": "+4 Mult",
+  "display_name": "+4 Mult",
+  "author": ["nh6574"],
+  "description": "+4 Mult",
+  "prefix": "plusfourmultmod",
+  "main_file": "plusfour.lua",
+  "priority": 0,
+  "version": "1.0.0",
+  "dependencies": ["Steamodded (>=1.0.0~BETA-0827c)"],
+  "icon_path": "icon.png",
+  "no_marquee": true
+}
