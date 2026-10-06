@@ -1,3 +1,4 @@
+-- text from HuyTheKiller https://github.com/HuyTheKiller/VietnameseBalatro
 return {
 	descriptions = {
 		Mod = {

@@ -7,7 +7,7 @@
   "prefix": "plusfourmultmod",
   "main_file": "plusfour.lua",
   "priority": 0,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": ["Steamodded (>=1.0.0~BETA-0827c)"],
   "icon_path": "icon.png",
   "no_marquee": true
